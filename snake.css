@@ -1,6 +1,12 @@
 h1 {
     text-align: center;
     font-size: 90px;
+   
+}
+body {
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
 }
 
 #gameCanvas {
